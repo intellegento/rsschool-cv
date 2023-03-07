@@ -1,18 +1,23 @@
 ![me](/img/ava-1.png)
 # Gennadii Shpreer
 Frontend developer
+
 ***
 - Bishkek, Kyrgyzstan
 - [Email](mailto:intellegento@gmail.com)
 - [Telegram](https://t.me/intellegento)
 - [+996(550)311-391](tel:+996550311391)
 - [LinkedIn](https://www.linkedin.com/in/g-shpreer/)
+
 ***
+
 ## About
 ***
 I am a frontend developer for over 1.5 years, during my work I have taken part in development of several projects in different business fields, had experience in leading a team of 3 developers startups in the initial stages of development, as well as a project which I did alone.
 I am interested in development and strive to be a valued member of the team. I love to learn and take on challenges to constantly evolve. I strive to ensure that, the quality of my work is always at the highest level, I try to comply with all tasks and requirements. I am willing to work with large volumes of tasks. My enthusiasm, responsibility and teamwork skills will make me a valuable addition to any development team. Ready to take on challenges to succeed with the team and improve my skills in the field.
+
 ***
+
 ## Skills
 ***
 - HTML
@@ -30,11 +35,14 @@ I am interested in development and strive to be a valued member of the team. I l
 - svg
  - Responsive Design
 - BEM
+
 ***
+
 ## Code Examples
 ***
+
 > ***Task:***
-> Given a non-negative integer, 3 for example, return a string with a > murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
+ Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
 ```
 var countSheep = function (num){
   let str = "";
@@ -75,8 +83,11 @@ Graphic designer(FL.ru, freelancer.com) | 05.2010 - 08.2021
 - Searching and working with clients, discussing and solving goals, finding optimal solutions, correspondence, creating akshsnskripts for Photoshop, solving controversial issues and finding compromises, creating printed and digital products, content management and much, much more
 
 ***
+
 ## Education
+
 ***
+
 - ***B.G.T.U. D.F. Ustinov "VOENMEKH"***
 hanical engineer, metals and metal forming technologies | 2005-2010.
 - ***Participant in the "50,000 Programmers in KG" program***
@@ -85,9 +96,14 @@ Joint program Beeline and IT-academia, Frontend | 01.2021-08.2021
 freeCodeCamp | 03.2021
 - ***Advanced JavaScript + Vue from scratch*** 
 Udemy | 04.2021
+
 ***
+
 ## Languages
+
 ***
+
 - ***Russian*** - native
 - ***English*** - beginner
+
 ***
