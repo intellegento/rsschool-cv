@@ -43,3 +43,35 @@ var countSheep = function (num){
 }
 ```
 ***
+## Experience
+***
+### ***TrixCode LLC***
+Frontend developer | 10.2021 - now
+- Participated in creating new projects using React and Next JS and various libraries, such as, GSAP, AnimateJS, and many others
+- Participated in the creation of the project on Shopify (liquid)
+- Gained experience with various CMS, including Shopify and WordPress
+- Migrated a large project from WordPress & GatsbyJS 2.6 to React & Strapi
+- Increased performance and finished product scores in Lighthouse in various metrics
+- Independently developed a small project
+- Led a small team through the initial stages of new project development, including setting tasks, estimating timelines, and tracking development milestones
+- Creating E-mail Timeplates for mailings to customers
+- Participated in filling ready projects both on the frontend and on the backend side
+- Developed and designed a test assignment for interns
+
+---
+### ***Learning Frontend Develop***
+Front-end development training (there are other projects on GitHub) | 01.2021 - 10.2021
+- ***jewelery***
+Test Assignment. The project used HTML, CSS, JavaScript(Next.JS), AnimeJS
+- ***ToDo***
+Graduation paper in the computer literacy course of the 50k programmers project. The project used Python(Django) + HTML&CSS
+- ***Covid-19***
+Independent work under the supervision of a mentor. The project used HTML, SCSS, JavaScript, Bootstrap, WebPack and some JS, GitHub was used in the work. The project is in the process of completion, so far it has taken 1.5 months.
+
+___
+
+### ***Freelance***
+Graphic designer(FL.ru, freelancer.com) | 05.2010 - 08.2021
+- Searching and working with clients, discussing and solving goals, finding optimal solutions, correspondence, creating akshsnskripts for Photoshop, solving controversial issues and finding compromises, creating printed and digital products, content management and much, much more
+
+***
