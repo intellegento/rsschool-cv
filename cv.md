@@ -75,3 +75,19 @@ Graphic designer(FL.ru, freelancer.com) | 05.2010 - 08.2021
 - Searching and working with clients, discussing and solving goals, finding optimal solutions, correspondence, creating akshsnskripts for Photoshop, solving controversial issues and finding compromises, creating printed and digital products, content management and much, much more
 
 ***
+## Education
+***
+- ***B.G.T.U. D.F. Ustinov "VOENMEKH"***
+hanical engineer, metals and metal forming technologies | 2005-2010.
+- ***Participant in the "50,000 Programmers in KG" program***
+Joint program Beeline and IT-academia, Frontend | 01.2021-08.2021
+- ***Responsive Web Design***
+freeCodeCamp | 03.2021
+- ***Advanced JavaScript + Vue from scratch*** 
+Udemy | 04.2021
+***
+## Languages
+***
+- ***Russian*** - native
+- ***English*** - beginner
+***
